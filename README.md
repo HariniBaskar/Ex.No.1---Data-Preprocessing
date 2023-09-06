@@ -23,12 +23,12 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
-Importing the libraries
-Importing the dataset
-Taking care of missing data
-Encoding categorical data
-Normalizing the data
-Splitting the data into test and train
+1. Importing the libraries
+2. Importing the dataset
+3. Taking care of missing data
+4. Encoding categorical data
+5. Normalizing the data
+6. Splitting the data into test and train
 
 ## PROGRAM:
 ```
@@ -86,22 +86,28 @@ print("Size of X_test: ",len(X_test))
 
 ## OUTPUT:
 ### Reading dataset:
+![img1](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/afb06d33-65e1-44a7-9184-8fee734e94d3)
 
 ### Checking for null values:
+![img2](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/1b6e388e-e63f-4acd-9706-930669a81af7)
 
 ### Duplicated values:
+![img3](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/f4d4e344-57b8-4e5f-b9a6-68a4d0fb94d4)
 
 ### Dropping off irrelevant values:
+![img4](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/40236e2f-a19f-4fac-8293-01932c996b96)
 
 ### Normalization using MinMaxScaler:
+![img5](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/3943e13b-d7dc-4d16-865a-439935c8b903)
 
 ### Array of X:
+![img6](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/3f69863a-c4c5-4d0f-8488-ad507f05051d)
 
 ### Array of Y:
+![img7](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/8d299634-5966-4a83-8125-1caa1f93e9a5)
 
 ### Training the dataset:
-
-
+![img8](https://github.com/HariniBaskar/Ex.No.1---Data-Preprocessing/assets/93427253/377f7638-613a-4d54-8dee-bd12077ee5cf)
 
 ## RESULT
 Thus the given data is been processed successfully.
